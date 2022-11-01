@@ -2856,8 +2856,8 @@ MonoBehaviour:
   sun: {fileID: 1620585750}
   sunColor:
     serializedVersion: 2
-    key0: {r: 1, g: 0.62514454, b: 0, a: 1}
-    key1: {r: 1, g: 0.62514454, b: 0, a: 1}
+    key0: {r: 0.8066038, g: 0.98203933, b: 1, a: 1}
+    key1: {r: 1, g: 0.71341777, b: 0, a: 1}
     key2: {r: 0, g: 0, b: 0, a: 0}
     key3: {r: 0, g: 0, b: 0, a: 0}
     key4: {r: 0, g: 0, b: 0, a: 0}
@@ -2896,8 +2896,17 @@ MonoBehaviour:
       inWeight: 0
       outWeight: 0
     - serializedVersion: 3
-      time: 59.939087
-      value: 15.229028
+      time: 30.718922
+      value: 47.38305
+      inSlope: 0.8275752
+      outSlope: 0.8275752
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 69.67941
+      value: 1.2046394
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -2905,12 +2914,12 @@ MonoBehaviour:
       inWeight: 0
       outWeight: 0
     m_PreInfinity: 2
-    m_PostInfinity: 2
+    m_PostInfinity: 1
     m_RotationOrder: 4
   moon: {fileID: 1902784989}
   moonColor:
     serializedVersion: 2
-    key0: {r: 0.48584908, g: 0.80636793, b: 1, a: 1}
+    key0: {r: 1, g: 0.7531516, b: 0, a: 1}
     key1: {r: 0, g: 0.1592061, b: 0.4245283, a: 1}
     key2: {r: 0, g: 0, b: 0, a: 0}
     key3: {r: 0, g: 0, b: 0, a: 0}
@@ -2950,8 +2959,17 @@ MonoBehaviour:
       inWeight: 0
       outWeight: 0
     - serializedVersion: 3
-      time: 7.0828094
-      value: 20.180023
+      time: 1.5353968
+      value: 29.91177
+      inSlope: 12.880797
+      outSlope: 12.880797
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 2.9487152
+      value: 0.2640133
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -2959,7 +2977,7 @@ MonoBehaviour:
       inWeight: 0
       outWeight: 0
     m_PreInfinity: 2
-    m_PostInfinity: 2
+    m_PostInfinity: 1
     m_RotationOrder: 4
 --- !u!4 &1741778433
 Transform:
@@ -2969,7 +2987,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1741778431}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -8.175649, y: 14.916786, z: -50.986916}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
