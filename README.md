@@ -19,3 +19,11 @@ Painting (Found from Studio Asset)
 Wine Rack (Found from Studio Asset)
 Robot (Found from Studio Asset)
 
+Lists of lights: 
+Point
+Directional
+Spot
+Emissive Material
+
+Added Day to night cycle
+Added particle system on main character
